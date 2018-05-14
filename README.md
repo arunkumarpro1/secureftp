@@ -11,4 +11,4 @@ This project is a design and implementation of a secure Internet file transfer a
 
 • The application only uses keyed hash, e.g. SHA-3 for securing the communication.
 
-• The security requirements satisfied by this application and other details are clearly explained in the design document.
+• The security requirements satisfied by this application and other details are clearly explained in the [design document](https://github.com/arunkumarpro1/secureftp/blob/master/Project%20Design%20Report.docx).
